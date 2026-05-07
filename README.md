@@ -103,15 +103,6 @@ X_train.npy → Training data
 
 ---
 
-## 👨‍💻 Authors
-
-* Rizly Azhar (B23F0005AI205)
-* Afnan Roobi (B23F0009AI203)
-* Asjadh Zakee (B23F0004AI204)
-* Syed Abbas (B23F0001AI008)
-
----
-
 ## 📚 Keywords
 
 Nano-QSAR, ANN, Explainable AI, SHAP, Cytotoxicity Prediction
